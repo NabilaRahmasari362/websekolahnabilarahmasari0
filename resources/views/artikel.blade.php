@@ -34,7 +34,6 @@
                             <a href="{{ route('artikel.detail', $berita) }}">{{ $berita->judul }}</a>
                         </h2>
                         <p class="artikel-ringkas">{{ \Illuminate\Support\Str::limit(strip_tags($berita->isi), 110) }}</p>
-                        <a href="{{ route('artikel.detail', $berita) }}" class="artikel-baca">Baca selengkapnya →</a>
                     </div>
                 </article>
             @empty
