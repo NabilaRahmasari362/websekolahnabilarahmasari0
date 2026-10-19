@@ -43,7 +43,7 @@
             </div>
 
             <div class="about-image">
-                <img src="{{ asset('images/profil-siswa.jpg') }}" alt="Kegiatan siswa SMKN 4 Bogor">
+                <img src="{{ asset('images/visi misi.jfif') }}" alt="Kegiatan siswa SMKN 4 Bogor">
             </div>
         </div>
     </section>
