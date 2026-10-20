@@ -52,7 +52,7 @@
     <section class="visimisi-section">
         <div class="container">
             <div class="visimisi-wrapper">
-                <img src="{{ asset('images/visi misi.jfif') }}" alt="Visi dan Misi" class="visimisi-img">
+                <img src="{{ asset('images/visi misi.jpg') }}" alt="Visi dan Misi" class="visimisi-img">
 
                 <div class="visimisi-content">
                     <h2 class="visimisi-title">Visi & Misi</h2>
